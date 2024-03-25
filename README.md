@@ -21,14 +21,7 @@ Este é um aplicativo Python desenvolvido para automatizar o processo de envio d
 - Um "X" na célula de um mês indica que o e-mail associado a essa linha deve ser enviado durante esse mês.
 - O corpo do e-mail é obtido a partir de uma coluna específica (por exemplo, coluna 4) e abaixo da linha correspondente.
 
-## Contribuições
-
-Contribuições são bem-vindas! Se você tiver alguma sugestão de melhoria ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
 ## Autor
 
-Este aplicativo foi desenvolvido por [Seu Nome] e está disponível sob a licença [escolha a licença adequada].
+Este aplicativo foi desenvolvido por [Jadiel Santos de Souza] e está disponível sob a licença .
 
-## Licença
-
-Este projeto está licenciado sob a [Licença XYZ] - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
